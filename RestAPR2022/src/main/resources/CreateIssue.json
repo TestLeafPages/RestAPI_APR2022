@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "project": {
+            "key": "AP"
+        },
+        "summary": "Create Issue - Restassured with Cucumber",
+        "description": "Create a issue through BDD script",
+        "issuetype": {
+            "name": "Bug"
+        }
+    }
+}
